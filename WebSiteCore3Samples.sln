@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BundleSample", "WebSiteCore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewComponentSample", "ViewComponentSample\ViewComponentSample.csproj", "{81463E44-4ABE-43A0-912E-8BB5901EFAFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionSample", "SessionSample\SessionSample.csproj", "{804609C3-9FD2-443D-B179-A4B71EED8228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81463E44-4ABE-43A0-912E-8BB5901EFAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81463E44-4ABE-43A0-912E-8BB5901EFAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81463E44-4ABE-43A0-912E-8BB5901EFAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804609C3-9FD2-443D-B179-A4B71EED8228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804609C3-9FD2-443D-B179-A4B71EED8228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804609C3-9FD2-443D-B179-A4B71EED8228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804609C3-9FD2-443D-B179-A4B71EED8228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
