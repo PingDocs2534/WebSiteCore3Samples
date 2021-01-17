@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div>Via Razor Pag</div>
+@await Component.InvokeAsync("SumNumberAsync", new { max = 30000 })
+
+<div>Via Html Tag</div>
+<vc:sum-number-async max="20000">
+</vc:sum-number-async>
+
+<vc:sum-number max="20000">
+</vc:sum-number>
